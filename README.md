@@ -15,3 +15,6 @@
 2. Email: t90079@tsust.edu.tw
 
 > 這是我的第一份 GitHub 練習
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ruyichiu.profiles&left_color=green&right_color=red)
+![GitHub followers](https://img.shields.io/github/followers/ruyichiu?style=social)
