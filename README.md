@@ -16,5 +16,5 @@
 
 > 這是我的第一份 GitHub 練習
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ruyichiu.profiles&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/ruyichiu/count.svg)
 ![GitHub followers](https://img.shields.io/github/followers/ruyichiu?style=social)
